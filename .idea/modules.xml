@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndNotesApp.iml" filepath="$PROJECT_DIR$/AndNotesApp.iml" group="AndNotesApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndNotesApp-app.iml" filepath="$PROJECT_DIR$/app/AndNotesApp-app.iml" group="AndNotesApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidNotesApp-app.iml" filepath="$PROJECT_DIR$/app/AndroidNotesApp-app.iml" group="AndroidNotesApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/SQLite.iml" filepath="$PROJECT_DIR$/SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
